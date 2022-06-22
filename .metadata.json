@@ -1,0 +1,6 @@
+[
+  {
+    "package": "htmlwidgets",
+    "oncran": true
+  }
+]
