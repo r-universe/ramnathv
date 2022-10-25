@@ -8,3 +8,8 @@
 	url = https://github.com/ramnathv/htmlwidgets
 	shallow = true
 	registered = true
+[submodule "htmltools"]
+	path = htmltools
+	url = https://github.com/rstudio/htmltools
+	shallow = true
+	registered = false

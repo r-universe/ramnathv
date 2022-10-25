@@ -1,0 +1,8 @@
+[
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["htmlwidgets"],
+    "from": "htmlwidgets"
+  }
+]
